@@ -1,4 +1,4 @@
-  Este sistema baseia-se numa abordagem de tentar reduzir o preço, dentro dos limites físicos 0 e 9 metros, 
+  Este sistema, feito em MATLAB R2024b, baseia-se numa abordagem de tentar reduzir o preço, dentro dos limites físicos 0 e 9 metros, 
 com a aplicação de uma penalização de 5 euros por cada hora fora do intervalo de segurança (2 e 7 metros).
   
   Subdivide-se em cinco documentos:
