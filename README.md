@@ -1,7 +1,7 @@
   Este sistema baseia-se numa abordagem de tentar reduzir o preço, dentro dos limites físicos 0 e 9 metros, 
 com a aplicação de uma penalização de 5 euros por cada hora fora do intervalo de segurança (2 e 7 metros).
   
-  Subdivide-se em três documentos:
+  Subdivide-se em cinco documentos:
     
   - a função "estado_bomba.m", esta função recebe uma determinada hora (t) e a variável de decisão X, e para o t determina se a bomba está desligada ou ligada;
     
